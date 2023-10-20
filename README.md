@@ -1,2 +1,2 @@
 # RechercheOPproject
-Le probl`eme de flot `a coˆut minimum avec capacit´e consiste `a trouver le flux optimal dans un r´eseau de flux o`u chaque arc est associ´e `a une capacit´e et un coˆut
+Le probleme de flot a cout minimum avec capacite consiste a trouver le flux optimal dans un reseau de flux ou chaque arc est associe a une capacite et un cout
